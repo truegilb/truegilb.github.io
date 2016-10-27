@@ -2,7 +2,7 @@
 layout: post
 title: "Configuring Google Domains for Github pages"
 categories: blog
-excerpt:
+excerpt: ""
 tags: ["domains", "github", "Google", "blog", "CNAME"]
 image:
   feature:
