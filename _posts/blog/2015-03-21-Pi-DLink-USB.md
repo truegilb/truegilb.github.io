@@ -2,7 +2,7 @@
 layout: post
 title: "Using an old D-Link WiFi dongle on Raspberry Pi"
 categories: blog
-excerpt:
+excerpt: ""
 tags: ["Pi", "Linux", "USB", "firmware"]
 image:
   feature:
