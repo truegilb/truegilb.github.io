@@ -2,7 +2,7 @@
 layout: post
 title: "SOAP and REST"
 categories: article
-excerpt:
+excerpt: "SOAP, REST"
 tags: ["REST", "SOAP", "JSON", "Web Service"]
 ---
 
